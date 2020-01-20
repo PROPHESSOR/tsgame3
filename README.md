@@ -1,2 +1,4 @@
-# tsgame3
-Created with CodeSandbox
+# ...
+
+- tick - Calculates physical values
+- render - Draw current state
